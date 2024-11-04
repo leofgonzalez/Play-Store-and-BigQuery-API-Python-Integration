@@ -1,4 +1,4 @@
-# Play-Store-and-BigQuery-API-Python-Integration
+# Building an automated data integration between Google Cloud Platform and Play Store App Data using Python
 
 Medium Article:
 English version: Link
