@@ -1,0 +1,6 @@
+google-cloud-storage==1.42.3
+google-cloud-bigquery==2.26.0
+pandas==1.3.3
+pandas-gbq==0.14.0
+numpy==1.21.0  # Compatible with pandas 1.3.3 and avoids numpy 2.0 incompatibility issues
+pyarrow==5.0.0  # Ensure compatibility with pandas and bigquery
