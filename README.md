@@ -27,7 +27,7 @@ The integration process involves importing necessary libraries, initializing cli
 ### Validation and key Observations:
 After implementing the code, validation through Google Cloud Platform logs is essential. This helps to ensure the function executes as intended, and allows for debugging and performance monitoring.
 
-## Conclusion
+## TLTR
 This project exemplifies the efficiency and flexibility of Python in handling complex data engineering tasks. By integrating Play Store metrics into BigQuery, we can leverage these insights for better decision-making in user acquisition strategies.
 
 For a detailed walkthrough of the code and its functionalities, please refer to the Medium article mentioned above.
