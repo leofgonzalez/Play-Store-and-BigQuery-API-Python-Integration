@@ -18,13 +18,13 @@ This project automates the integration of Play Store metrics into Google BigQuer
 The integration, built with Python on Google Cloud Functions, provides a scalable and efficient way to gather and analyze app performance data for better decision-making in growth strategies.
 
 ## Key Sections
-Environment Setup and Security Permissions
-Utilizing Google Cloud services, the integration is built on a Google Cloud Function, triggered via a Cloud Scheduler CRON job. Essential configurations include:
+### Environment setup and security permissions: 
+Utilizing Google Cloud services, the integration is built on a Google Cloud Function, triggered via a Cloud Scheduler CRON job.
 
-Full Integration Code Development in Python
+### Full integration code development in Python:
 The integration process involves importing necessary libraries, initializing clients, retrieving reports, sanitizing data, and loading it into BigQuery. For the complete Python code, check the repository files: main.py.
 
-Validation and Key Observations
+### Validation and key Observations:
 After implementing the code, validation through Google Cloud Platform logs is essential. This helps to ensure the function executes as intended, and allows for debugging and performance monitoring.
 
 ## Conclusion
