@@ -12,8 +12,8 @@ This project automates the integration of Play Store metrics into Google BigQuer
 
 - Metrics: Impressions, page views, downloads, and installations.
 - Segmentation:
-- - Country (focused on the U.S. and Brazil for expansion).
-- - UTM Parameters (categorizing user acquisition sources).
+  - Country (focused on the U.S. and Brazil for expansion).
+  - UTM Parameters (categorizing user acquisition sources).
 
 The integration, built with Python on Google Cloud Functions, provides a scalable and efficient way to gather and analyze app performance data for better decision-making in growth strategies.
 
