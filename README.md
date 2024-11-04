@@ -1,8 +1,8 @@
 # Building an automated data integration between Google Cloud Platform and Play Store App Data using Python
 
 Medium Article:
-English version: [Link](https://medium.com/@leofgonzalez/automating-play-store-data-integration-with-bigquery-95bbcb02182f).
-Portuguese version: [Link](https://medium.com/@leofgonzalez/automatizando-a-integra%C3%A7%C3%A3o-de-dados-da-play-store-com-o-bigquery-dbe1ffb26a30).
+- English version: [Link](https://medium.com/@leofgonzalez/automating-play-store-data-integration-with-bigquery-95bbcb02182f).
+- Portuguese version: [Link](https://medium.com/@leofgonzalez/automatizando-a-integra%C3%A7%C3%A3o-de-dados-da-play-store-com-o-bigquery-dbe1ffb26a30).
 
 This repository serves as a comprehensive guide on automating the integration between Google BigQuery and the Play Store using a Google Cloud Function, showcasing the capabilities of Python in data engineering challenges. This project is based on a real-world problem I encountered while working at Ribon, where we aimed to drive B2C growth by understanding the user journey leading to the app download.
 
